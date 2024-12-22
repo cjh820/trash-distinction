@@ -26,5 +26,4 @@
 사람 판별-웹캠을 이용해 사람을 인식
 소리 센서 작동- 사람을 인식하면 경보음이 울림
 
-
-[poster](https://github.com/KHS576/trash-distinction/blob/main/group_photo.png)
+![시스템 구조](https://github.com/KHS576/trash-distinction/blob/main/group_photo.png)
