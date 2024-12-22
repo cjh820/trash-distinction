@@ -26,4 +26,6 @@
 
 ![시스템 구조](https://github.com/KHS576/trash-distinction/blob/main/group_photo.png)
 
-![시스템 구조](https://www.youtube.com/watch?v=c6BtrwxBb4A)
+https://www.youtube.com/watch?v=c6BtrwxBb4A
+
+
