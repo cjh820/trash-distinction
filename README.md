@@ -16,7 +16,8 @@
 ## 프로젝트 개요
 
 >프로젝트 이름: 안전 경보 시스템 
+![enter image description here](https://drive.google.com/file/d/1uZ6k4fu8FnyIUwTfd0KPEl9Oppl-sNeA/view?usp=drive_link)
 
 주요 기능:
 사람 판별-웹캠을 이용해 사람을 인식
-소리 센서 작동- 사람을 인식하면 경보음이 울린다.
+소리 센서 작동- 사람을 인식하면 경보음이 울림
