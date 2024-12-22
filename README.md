@@ -27,5 +27,5 @@
 소리 센서 작동- 사람을 인식하면 경보음이 울림
 
 ```null
-![poster](https://raw.githubusercontent.com/KHS576/trash-distinction/main/단체사진.png)
+![poster]https://github.com/KHS576/trash-distinction/blob/main/group_photo.png)
 ```
